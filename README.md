@@ -1,4 +1,4 @@
-# BindBackstop
+# BindBackstop [[Build](https://github.com/fcanas/BindBackstop/actions/workflows/swift.yml/badge.svg?branch=canon)](https://github.com/fcanas/BindBackstop/actions/workflows/swift.yml)
 
 For SwiftUI's Bindings, make a non-optional Binding from an optional one, given a default value.
 
